@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<users>
+    <user>
+        <username>zhangsan</username>
+        <password>123456</password>
+    </user>
+    <user>
+        <username>lisi</username>
+        <password>123456</password>
+    </user>
+    <user>
+        <username>hello</username>
+        <password>123456</password>
+    </user>
+    <user>
+        <username>测试下</username>
+        <password>123456</password>
+    </user>
+<user>
+<password>123</password>
+<username>ce测试用户</username>
+</user>
+<user>
+        <username>新用户</username>
+        <password>1234</password>
+    </user>
+<user>
+        <username>gaoyucheng</username>
+        <password>123456</password>
+    </user>
+</users>

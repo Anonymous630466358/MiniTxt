@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<classes>
+	<class>
+		<classname>武侠</classname>
+		<catalog>txtcatalog\\wuxia\\</catalog>
+		<config>config\\txt_wuxia.xml</config>
+	</class>
+	<!-- 继续添加其他类别的配置 -->
+	<class>
+		<classname>言情</classname>
+		<catalog>txtcatalog\\yanqing\\</catalog>
+		<config>config\\txt_yanqing.xml</config>
+	</class>
+</classes>
